@@ -18,13 +18,3 @@ Toko Baju Baraya merupakan aplikasi web toko online sederhana dengan demo produk
 
 ##User demo:
 Untuk mencoba menggunakan toko ini, gunakan dua browser yang berbeda untuk memudahkan (Chrome atau Firefox) dan login dengan akun berikut:
-
-**Admin:**
-- Username: admin
-- Password: 12345
-
-**Customer:**
-- Username: customer
-- Password: 12345
-
-Untuk panduan cara menginstal, silahkan buka file **panduan-installasi.pdf**
